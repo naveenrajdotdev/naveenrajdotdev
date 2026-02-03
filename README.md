@@ -1,7 +1,6 @@
-Hi, I'm Naveenraj 👋
-💻 Junior Software Developer  
-🌱 Currently learning MERN Stack  
-🎯 Goal: Become a Full Stack Developer  
+Hi, I'm Naveenraj | Junior Software Developer  
+- Currently learning MERN Stack  
+- Goal: Become a Full Stack Developer  
 ---
 ## Tech Stack
 - HTML, CSS, JavaScript

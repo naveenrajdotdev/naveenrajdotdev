@@ -1,4 +1,5 @@
-Hi, I'm Naveenraj | Junior Software Developer  
+## Hi, I'm Naveenraj | Junior Software Developer
+---
 - Currently learning MERN Stack  
 - Goal: Become a Full Stack Developer  
 ---

@@ -1,16 +1,24 @@
-## Hi there 👋
-
-<!--
-**naveenrajdotdev/naveenrajdotdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi, I'm Naveenraj 👋
+💻 Junior Software Developer  
+🌱 Currently learning MERN Stack  
+🎯 Goal: Become a Full Stack Developer  
+---
+## Tech Stack
+- HTML, CSS, JavaScript
+- React (Learning)
+- Node.js, Express (Learning)
+- MongoDB (Learning)
+- Java (Basics)
+---
+## Projects
+- 📝 Task Manager App (MERN) – Coming soon
+- 🔐 Auth App – Planned
+- ⚙️ Java Practice Programs
+---
+## What I'm Doing Now
+- Practicing JavaScript daily
+- Building full-stack projects
+- Improving problem-solving & communication
+---
+## Reach me:
+- Email: naveenrajanand2001@gmail.com

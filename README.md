@@ -1,6 +1,6 @@
 ## Hi, I'm Naveenraj | Software Developer
 ### About Me:
-I enjoy building projects and improving my coding skills every day.<br>I build full-stack projects to strengthen my fundamentals.<br>I’m currently learning System Design and Web Architecture as part of my long-term growth journey.<br>I’m interested in learning-focused open-source projects and continuously improving my development skills. 
+I enjoy building projects and improving my coding skills every day.<br>I build full-stack projects to strengthen my fundamentals.<br>I’m currently learning System Design and Web Architecture as part of my long-term growth journey.<br>I’m interested in learning-focused open-source projects and continuously improving my development skills.
 ### Learnings:
 - Frontend: React, Next.js
 - Backend: Node.js, Express, Spring Boot
